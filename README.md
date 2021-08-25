@@ -32,7 +32,9 @@ Vamo pra cima pessoal 🤜 👍
 ## Links
 ​
 Todos nós devemos responder esse formulário
+
 [Formulário Finalsitas Hiring Coders](https://docs.google.com/forms/d/e/1FAIpQLSe7AWV16K9b8QCqT1akpVABeKbrY8WIm9TPEouZ9upfjcii2Q/viewform)
+
 ​
 [Manual de Sobrevivência](https://drive.google.com/file/d/12gsQVnLC9mwJ3F4TZyr1rOHm31PDfRN-/view)
 ​
@@ -46,4 +48,6 @@ Todos nós devemos responder esse formulário
 ​
 [Playlist no YT sobre o VTEX IO](https://www.youtube.com/watch?v=ijUH0yihc2I&list=PLVWqymlUtVYY1ACdrJ33pXh39isLrsDh1&index=16)
 ​
-Nessa playlist o Dev desenvolve várias funções, por exemplo, uma prateleira custom utilizando a API
+
+
+** Nessa playlist o Dev desenvolve várias funções, por exemplo, uma prateleira custom utilizando a API
