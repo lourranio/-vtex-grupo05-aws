@@ -1,6 +1,13 @@
 # -vtex-grupo05-aws
 ## Hiring Coders FASE#3- Desaﬁo Final
 
+## Special Thanks To Maintainers
+A special thanks to [Max Schmitt](https://github.com/mxschmitt), [Joydip Roy](https://github.com/rjoydip) & [Ayo Adesugba](https://github.com/adesugbaa) for contributing their valueable time on this project.
+
+[![Max Schmitt](https://avatars2.githubusercontent.com/u/17984549?s=64)](https://github.com/mxschmitt)
+[![Joydip Roy](https://avatars2.githubusercontent.com/u/15318294?s=64)](https://github.com/rjoydip)
+[![Ayo Adesugba](https://avatars2.githubusercontent.com/u/55943?s=64)](https://github.com/adesugbaa)
+
 ### grupo05-aws
 
 ## Login vtex io
@@ -48,6 +55,7 @@ Todos nós devemos responder esse formulário
 ​
 [Playlist no YT sobre o VTEX IO](https://www.youtube.com/watch?v=ijUH0yihc2I&list=PLVWqymlUtVYY1ACdrJ33pXh39isLrsDh1&index=16)
 ​
+
 
 
 ** Nessa playlist o Dev desenvolve várias funções, por exemplo, uma prateleira custom utilizando a API
