@@ -1,8 +1,8 @@
 # -vtex-grupo05-aws
 ## Hiring Coders FASE#3- Desaﬁo Final
 
-## Special Thanks To Maintainers
-A special thanks to [Max Schmitt](https://github.com/mxschmitt), [Joydip Roy](https://github.com/rjoydip) & [Ayo Adesugba](https://github.com/adesugbaa) for contributing their valueable time on this project.
+## Special Thanks
+A special thanks to [lourranio](https://github.com/lourranio), [dan-liberato](https://github.com/dan-liberato), [fredzstevanato](https://github.com/fredzstevanato), [noalmeida](https://github.com/noalmeida) for contributing their valueable time on this project.
 
 [![Max Schmitt](https://avatars2.githubusercontent.com/u/17984549?s=64)](https://github.com/mxschmitt)
 [![Joydip Roy](https://avatars2.githubusercontent.com/u/15318294?s=64)](https://github.com/rjoydip)
