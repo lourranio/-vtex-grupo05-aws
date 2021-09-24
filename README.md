@@ -2,13 +2,15 @@
 ## Hiring Coders FASE#3- Desaﬁo Final
 
 ## Special Thanks
-A special thanks to [lourranio](https://github.com/lourranio), [dan-liberato](https://github.com/dan-liberato), [fredzstevanato](https://github.com/fredzstevanato), [noalmeida](https://github.com/noalmeida) for contributing their valueable time on this project.
+A special thanks to [lourranio](https://github.com/lourranio), [dan-liberato](https://github.com/dan-liberato), [fredzstevanato](https://github.com/fredzstevanato), [noalmeida](https://github.com/noalmeida),[Yuri Quintanilha](https://github.com/Yuri-MRQ), [henriqueCaruso](https://github.com/henriqueCaruso) for contributing their valueable time on this project.
 
-[![Max Schmitt](https://avatars2.githubusercontent.com/u/17984549?s=64)](https://github.com/mxschmitt)
-[![Joydip Roy](https://avatars2.githubusercontent.com/u/15318294?s=64)](https://github.com/rjoydip)
-[![Ayo Adesugba](https://avatars2.githubusercontent.com/u/55943?s=64)](https://github.com/adesugbaa)
+[![lourranio](https://avatars.githubusercontent.com/u/7934993?s=64)](https://github.com/lourranio)
+[![dan-liberato](https://avatars2.githubusercontent.com/u/6700671?s=64)](https://github.com/dan-liberato)
+[![fredzstevanato](https://avatars2.githubusercontent.com/u/29235782?s=64)](https://github.com/fredzstevanato)
+[![noalmeida](https://avatars.githubusercontent.com/u/69813693?s=64)](https://github.com/noalmeida)
 
-### grupo05-aws
+
+# grupo05-aws
 
 ## Login vtex io
 ​
